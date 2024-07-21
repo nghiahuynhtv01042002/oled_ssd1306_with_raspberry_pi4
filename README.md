@@ -28,3 +28,5 @@ The SSD1306 OLED display is a compact and versatile display module used in vario
     - ![](charDisplay.jpg)
 - ** Display image:**
     - ![](imgDisplay1.jpg)
+- ** Display GIF:**
+    - ![](gifDisplay.gif)
